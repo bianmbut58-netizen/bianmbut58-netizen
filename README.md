@@ -30,8 +30,8 @@ status: Student at SMKN 1 Siantar
 learning:
   - Next.js
   - Web Scraping
-  - Bots & AI
-ask_me_about: [Anime, Next.js, Bot, Scraping, Otakudesu]
+  - Nodejs & AI 
+ask_me_about: [Anime, Next.js, Nodejs, Scraping, AI]
 reach_me:
   instagram: "@fmcstoree"
   website: https://fmcstore.web.id
